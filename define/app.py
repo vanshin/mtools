@@ -1,0 +1,1 @@
+APP_STATES = (APP_OPEN, APP_CLOSE) = (1, 2)

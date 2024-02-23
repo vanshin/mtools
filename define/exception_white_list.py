@@ -1,0 +1,1 @@
+SCOPES = (GLOBAL, SERVICE, API) = (1, 2, 3)

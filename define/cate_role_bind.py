@@ -1,0 +1,1 @@
+CR_BIND_STATES = (CR_OPEN, CR_CLOSE) = (1, 2)

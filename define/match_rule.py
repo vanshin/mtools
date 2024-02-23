@@ -1,0 +1,2 @@
+MSG_LEVELS = (DEBUG, INFO, WARN, ERROR, FATAL) = (1, 2, 3, 4, 5)
+

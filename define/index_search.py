@@ -1,0 +1,1 @@
+FORECAST_TYPES = (COMPARE_VALUE, ) = (1, )

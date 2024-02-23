@@ -1,0 +1,1 @@
+MESSAGE_STATE = (UNREAD, READ) = (1, 2)
